@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Profiles>
+  <Profile>
+    <Name>Profile0</Name>
+  </Profile>
+  <Profile>
+    <Name>Profile1</Name>
+  </Profile>
+  <Profile>
+    <Name>Profile2</Name>
+  </Profile>
+  <Active>Profile0</Active>
+</Profiles>

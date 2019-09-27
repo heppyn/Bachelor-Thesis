@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heaters>
+  <LastId>ai</LastId>
+  <Heater>
+    <Id>ac</Id>
+    <Name>Bathroom</Name>
+    <Schedule>aaa</Schedule>
+  </Heater>
+  <Heater>
+    <Id>ad</Id>
+    <Name>Bedroom</Name>
+    <Schedule>aaa</Schedule>
+  </Heater>
+  <Heater>
+    <Id>ai</Id>
+    <Name>Bedroom up</Name>
+    <Schedule>test</Schedule>
+  </Heater>
+  <Heater>
+    <Id>ae</Id>
+    <Name>Hall 1</Name>
+    <Schedule>aaa</Schedule>
+  </Heater>
+  <Heater>
+    <Id>ah</Id>
+    <Name>Hall 2</Name>
+    <Schedule>Work week</Schedule>
+  </Heater>
+  <Heater>
+    <Id>ab</Id>
+    <Name>Kitchen</Name>
+    <Schedule>aaa</Schedule>
+  </Heater>
+  <Heater>
+    <Id>af</Id>
+    <Name>KItchen down</Name>
+    <Schedule>test</Schedule>
+  </Heater>
+  <Heater>
+    <Id>ag</Id>
+    <Name>Living Room</Name>
+    <Schedule>test</Schedule>
+  </Heater>
+</Heaters>

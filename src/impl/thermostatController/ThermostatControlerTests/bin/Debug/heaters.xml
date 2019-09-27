@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heaters>
+  <LastId>ac</LastId>
+  <Heater>
+    <Id>ab</Id>
+    <Name>Bathroom</Name>
+    <Schedule>Bathroom</Schedule>
+  </Heater>
+  <Heater>
+    <Id>ac</Id>
+    <Name>Bedroom</Name>
+    <Schedule>Bedroom</Schedule>
+  </Heater>
+  <Heater>
+    <Id>aa</Id>
+    <Name>Kitchen</Name>
+    <Schedule>Kitchen</Schedule>
+  </Heater>
+</Heaters>
